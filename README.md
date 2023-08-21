@@ -9,15 +9,21 @@ Things you may want to cover:
 ### 環境構築方法
 1\. リポジトリrails-dockerを以下コマンドよりローカルにcloneする
 - `git clone https://github.com/sousou1216/rails-docker.git`<br>
+
 2\. 以下サイトよりDockerのインストールを行う（インストール済みの方はスキップ）
 - ` https://docs.docker.com/engine/install/ `<br>
+
 3\. 以下コマンドよりコンテナを作成・起動する
 - `docker-compose up -d`<br>
+
 4\. ブラウザ上で以下URLを打ち込みアプリが起動していることを確認する
 - `http://localhost:3000/`<br>
+
 5\. 以下コマンドよりコンテナを終了する
 - `docker-compose stop`<br>
-6\. コンテナを再起動する場合は3のupコマンドを実行する
+
+6\. コンテナを再起動する場合は3のupコマンドを実行する<br>
+
 7\. タスクを初期化したい場合は以下コマンドよりコンテナを削除後3のupコマンドを実行する
 - `docker-compose down`<br>
 
