@@ -29,18 +29,18 @@ Things you may want to cover:
 
 ### 以下参考
 * Ruby version
-- latest
+  - latest
 * System dependencies
-- Ruby, Rails, Postgres, Docker are interdependent.
+  - Ruby, Rails, Postgres, Docker are interdependent.
 * Configuration
-- Ruby, Rails, Postgres, Docker
+  - Ruby, Rails, Postgres, Docker
 * Database creation
-- Yes
+  - Yes
 * Database initialization
-- If you delete the container, the database will be initialized.
+  - If you delete the container, the database will be initialized.
 * How to run the test suite
-- N/A
+  - N/A
 * Services (job queues, cache servers, search engines, etc.)
-- Web application for task management.
+  - Web application for task management.
 * Deployment instructions
-- See above(環境構築方法).
+  - See above(環境構築方法).
